@@ -1,5 +1,4 @@
-# [CuttingEEG 2023](https://cuttinggardens2023.org/gardens/frankfurt/)
-Code from the workshop given during the CuttingGardens 2023 conference (Frankfurt Garden).
+Code from the workshop given during the [CuttingGardens 2023](https://cuttinggardens2023.org/gardens/frankfurt/) conference (Frankfurt Garden).
 
 ## [Extracting interpretable patterns from multivariate time series data using GED](https://osf.io/b7zgf/wiki/home/)
 
