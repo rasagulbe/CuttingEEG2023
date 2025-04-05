@@ -7,4 +7,4 @@ Electrophysiological signals recorded at any spatial scale represent a mix of ac
 ##
 
 ### Requirements
-EEGLAB toolbox is needed for plotting scalp topographies using `topoplot` function. The code was run using eeglab2021.0.
+EEGLAB toolbox is needed for plotting scalp topographies using `topoplot` function.
